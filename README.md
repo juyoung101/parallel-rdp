@@ -263,3 +263,4 @@ Note that `slangmosh` must be in your path for this script to run. It executes t
 paraLLEl-RDP is licensed under the permissive license MIT. See included LICENSE file.
 This implementation builds heavily on the knowledge (but not code) gained from studying the reference implementation,
 thus it felt fair to release it under a permissive license, so my work could be reused more easily.
+
